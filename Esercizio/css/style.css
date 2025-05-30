@@ -1,1 +1,162 @@
-/* Your styles here */
+body {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+header > div {
+  height: 150px;
+  background-color: black;
+  border-radius: 5px;
+}
+#logo {
+  width: 150px;
+  margin: 1.5em 8em;
+}
+header div p {
+  padding: 0.5em;
+  padding-bottom: 1em;
+  color: white;
+  font-size: 0.8em;
+}
+header nav div {
+  height: 320px;
+  background-image: url(../images/banner.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: top;
+  border-radius: 5px;
+}
+header nav div h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+  padding: 1.5em 3em 0.7em;
+  color: #25a2c3;
+  font-weight: bold;
+}
+header nav div p {
+  color: black;
+  font-size: 0.9em;
+  padding: 0.1em 4em;
+  line-height: 1.5em;
+}
+header nav button {
+  border: 2px;
+  background-color: #f04c2f;
+  margin-top: 2.5em;
+  padding: 1em 2em;
+  border-radius: 5px;
+}
+#ancorbutton {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+main section div {
+  padding: 2em;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  background-color: rgb(255, 255, 255);
+}
+main section div h2 {
+  font-size: 1.2rem;
+  color: #25a2c3;
+  padding: 0.8em;
+  font-weight: bold;
+}
+main section div p {
+  font-size: 1rem;
+  color: #393d41;
+  line-height: 1.65em;
+}
+#imgnotebook {
+  margin: 1em 0;
+  width: 320px;
+  border-radius: 300px;
+  margin-right: auto;
+}
+#thirdarticle {
+  height: 280px;
+  background-color: #e22d0e;
+  border-radius: 5px;
+  color: #ffffff;
+}
+#thirdarticle h1 {
+  font-weight: bold;
+  padding: 2.2em;
+  font-size: 1.6em;
+}
+
+#thirdarticle p {
+  padding-bottom: 2em;
+  font-size: 0.9em;
+  padding: 0 0.8em;
+  margin-bottom: 2em;
+}
+#thirdarticle span {
+  margin: 0 9em;
+  display: inline-block;
+}
+
+#lastsection img {
+  text-align: center;
+  width: 300px;
+  margin-top: 1em;
+}
+#lastsection div {
+  border-color: #dee1e3;
+  margin: 1em;
+  height: 350px;
+  padding: 0;
+  border: color(#dee1e3 #dee1e3 #dee1e3);
+  border-width: 1px;
+  border-style: outset;
+}
+#lastsection h4 {
+  font-size: 1.2rem;
+  color: #25a2c3;
+  padding: 0.8em;
+  font-weight: bold;
+}
+#lastsection p {
+  font-size: 1rem;
+  color: #393d41;
+  line-height: 1.65em;
+  padding: 0 1em;
+}
+footer {
+  background-color: #25a2c3;
+  height: 300px;
+}
+footer h5 {
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-size: 2em;
+  color: #ffffff;
+  font-weight: bold;
+}
+footer p {
+  color: #c8e7f0;
+}
+footer i {
+  background-color: white;
+  padding: 0.1em;
+}
+footer p a {
+  line-height: 1.5em;
+  padding: 0.5em 2em;
+  margin: 0 3.5em;
+  text-decoration: none;
+}
+#lastanchor {
+  margin: 0 2em;
+}
