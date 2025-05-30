@@ -135,7 +135,7 @@ main section div p {
 }
 footer {
   background-color: #25a2c3;
-  height: 300px;
+  height: 350px;
 }
 footer h5 {
   padding-top: 2em;
@@ -160,9 +160,10 @@ footer p a {
 }
 #lastdiv {
   margin-top: 3em;
-  border: black 2px;
   border-width: 2px;
   color: #c8e7f0;
+  border-top: 1px solid #c8e7f0;
+  padding: 2em;
 }
 #whiteaa a {
   color: #c8e7f0;
