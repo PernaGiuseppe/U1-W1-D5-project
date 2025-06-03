@@ -147,17 +147,13 @@ footer h5 {
   color: #ffffff;
   font-weight: bold;
 }
-
-footer p {
-  color: #c8e7f0;
-}
 footer i {
   background-color: white;
   padding: 0.1em;
 }
-footer p a {
-  display: block;
+.whitea {
   text-decoration: none;
+  color: #c8e7f0;
 }
 #lastdiv {
   margin-top: 3em;
@@ -165,9 +161,4 @@ footer p a {
   color: #c8e7f0;
   border-top: 1px solid #c8e7f0;
   padding: 2em;
-}
-#whiteaa a {
-  color: #c8e7f0;
-}
-#lastanchor {
 }
